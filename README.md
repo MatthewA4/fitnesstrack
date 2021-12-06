@@ -1,2 +1,2 @@
 # fitnesstrack
-Fitness Tracker written in C#
+Fitness Tracker written in C++
